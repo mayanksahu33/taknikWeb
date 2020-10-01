@@ -1,0 +1,1 @@
+This is a first web app project that i created 2 year ago while learning web app development. This web app is developed in Python using Django framework. This project is based on http://www.tangowithdjango.com/rango/ . Tango With Django is a beginner's guide to Web Development using the popular Python Based Web Framework Django by Leif Azzopardi
